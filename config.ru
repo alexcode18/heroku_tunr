@@ -2,7 +2,6 @@ require 'rubygems'
 require 'sinatra'
 require 'sinatra/reloader'
 require 'active_record'
-require 'pry'
 require 'better_errors'
 
 require_relative 'models/song.rb'
